@@ -4,9 +4,9 @@
     "url": "https://deployer.org",
     "icon": "https://favicons.githubusercontent.com/deployer.org",
     "slug": "deployer-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 554,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2021-02-20": 0,
       "2021-01-25": 82,
       "2021-01-18": 1
     }
